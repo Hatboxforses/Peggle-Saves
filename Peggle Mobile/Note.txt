@@ -1,0 +1,1 @@
+This game is intended for Android so may require a physical device or emulator however it was compiled for a target of Android 2.3 so may not work above Android 12 according to many reddit posts
