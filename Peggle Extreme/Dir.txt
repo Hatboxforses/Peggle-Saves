@@ -1,6 +1,6 @@
 Windows: 
-C:\ProgramData\Steam\Peggle\userdata
+C:\ProgramData\Steam\PeggleExtreme\userdata
 It is stored in the Program dir; you need to get the files from ./Save Files & move them here on your PC
 Linux(Proton): 
-/home/hatboxforses/.local/share/Steam/steamapps/compatdata/3480/pfx/drive_c/ProgramData/Steam/Peggle/userdata
+/home/hatboxforses/.local/share/Steam/steamapps/compatdata/3483/pfx/drive_c/ProgramData/Steam/PeggleExtreme/userdata
 It is stored in the Program dir that proton mounts; you need to get the files from ./Save Files & move them here on your PC
