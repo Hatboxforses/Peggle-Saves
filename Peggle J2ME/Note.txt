@@ -1,0 +1,1 @@
+This game is intended for J2ME so may require a physical device or emulator, it was also intended for the Nokia 6280 so has a resolution of 240x320
