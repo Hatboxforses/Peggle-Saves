@@ -1,0 +1,6 @@
+Windows: 
+C:\ProgramData\PopCap Games\PeggleWoW\userdata
+It is stored in the Program dir; you need to get the files from ./Save Files & move them here on your PC
+Linux(wine): 
+/home/hatboxforses/.wine/drive_c/ProgramData/PopCap Games/PeggleWoW/userdata
+It is stored in the Program dir that wine mounts; you need to get the files from ./Save Files & move them here on your PC
