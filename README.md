@@ -10,6 +10,8 @@ These are my Peggle saves from every version of Peggle I have beaten with roms/b
 
 [Peggle Nights](https://github.com/Hatboxforses/Peggle-Saves/tree/main/Peggle%20Nights)
 
+[Peggle World of Warcraft Edition](https://github.com/Hatboxforses/Peggle-Saves/tree/main/Peggle%20Deluxe)
+
 [Peggle Mobile](https://github.com/Hatboxforses/Peggle-Saves/tree/main/Peggle%20Mobile)
 
 [Peggle Dual Shot](https://github.com/Hatboxforses/Peggle-Saves/tree/main/Peggle%20Dual%20Shot)
