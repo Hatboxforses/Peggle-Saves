@@ -3,7 +3,7 @@
 
 These are my Peggle saves from every version of Peggle I have beaten with roms/binaries of the games where they are not currently sold/distributed
 
-Use ```git clone https://github.com/Hatboxforses/Peggle-Saves.git``` to clone the repo & use Port-Name/Save Files & Dir.txt to drag the save files to the correct directory (read the Note.txt first for any possible difference instructions)
+Use ```git clone https://github.com/Hatboxforses/Peggle-Saves.git``` to clone the repo & use Port-Name/Save Files & Dir.txt to drag the save files to the correct directory (read the Note.txt first for any possible difference in instructions)
 
 ## Native
 [Peggle Deluxe](https://github.com/Hatboxforses/Peggle-Saves/tree/main/Peggle%20Deluxe)
