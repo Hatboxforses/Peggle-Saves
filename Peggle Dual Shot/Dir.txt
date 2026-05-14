@@ -1,2 +1,2 @@
 ./
-This would be the same directory as your rom
+This would be the same directory as your rom (See Note.txt for details)

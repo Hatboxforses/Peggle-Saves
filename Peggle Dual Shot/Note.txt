@@ -1,1 +1,1 @@
-This game is intended for the Nintendo DS so may require a physical device or emulator
+This game is intended for the Nintendo DS so may require a physical device or emulator. I used an r4 for this save so the save & dir.txt may or may not differ based on cartride loading device.
