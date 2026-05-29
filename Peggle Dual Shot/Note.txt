@@ -1,1 +1,1 @@
-This game is intended for the Nintendo DS so may require a physical device or emulator. I used an r4 for this save so the save & dir.txt may or may not differ based on cartride loading device.
+This game is intended for the Nintendo DS so may require a physical device or emulator. I used an r4 for this save so the save & dir.txt may or may not differ based on cartride loading device (I have added the TwiLight Menu++ for 3ds location as of 05/23/26.)

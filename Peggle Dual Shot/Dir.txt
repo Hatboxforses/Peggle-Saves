@@ -1,2 +1,7 @@
+r4:
 ./
-This would be the same directory as your rom (See Note.txt for details)
+This would be the same directory as your rom (See Note.txt for details.)
+
+TwiLight Menu++ (3DS):
+/roms/nds/saves
+May or may not work on the DSi version of TwiLight Menu++. This is also from the root dir of the SD card.
